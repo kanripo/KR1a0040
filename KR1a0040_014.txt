@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 誠齋易傳
-#+DATE: 2015-09-23 09:34:29
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 21:54:53.981183
+#+PROPERTY: ID KR1a0040
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1a0040_WYG_014-1a>¶
 欽定四庫全書¶
 　誠齋易傳卷十四¶
@@ -470,4 +472,3 @@
 　足託宗廟社稷乎易者象也上卦☳有虚筐之象兊¶
 　為羊上六而在外朝為許靖為王衍¶
 　誠齋易傳卷十四¶
-

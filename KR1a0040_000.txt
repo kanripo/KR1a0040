@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 誠齋易傳
-#+DATE: 2015-09-23 09:34:29
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:54:53.742326
+#+PROPERTY: ID KR1a0040
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0040_WYG_000-1a>¶
 欽定四庫全書　　　　經部一¶
 　誠齋易傳　　　　　　易類¶
@@ -27,6 +29,7 @@
 　　　　恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1a0040_WYG_000-3a>¶
 誠齋易傳原序¶
 易者何也易之為言變也易者聖人通變之書也何謂¶
@@ -63,4 +66,3 @@
 　¶
 　¶
 　誠齋易傳原序¶
-

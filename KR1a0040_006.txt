@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 誠齋易傳
-#+DATE: 2015-09-23 09:34:29
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 21:54:53.844179
+#+PROPERTY: ID KR1a0040
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1a0040_WYG_006-1a>¶
 欽定四庫全書¶
 　誠齋易傳卷六¶
@@ -380,4 +382,3 @@
 　¶
 　¶
 　誠齋易傳卷六¶
-

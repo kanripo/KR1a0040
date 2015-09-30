@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 誠齋易傳
-#+DATE: 2015-09-23 09:34:29
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 21:54:53.961229
+#+PROPERTY: ID KR1a0040
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1a0040_WYG_013-1a>¶
 欽定四庫全書¶
 　誠齋易傅卷十三¶
@@ -488,4 +490,3 @@
 　¶
 　¶
 　誠齋易傳卷十三¶
-
